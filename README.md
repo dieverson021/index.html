@@ -4,12 +4,12 @@
  <html lang=”pt-br”>
        <head>
        <meta charset=”UTF-8”>    
-       <title>Barbearia Alura</title>
-       </head>
+     
+      </head>
 
    <body>     
                
-      <!DOCTYPE html> <body text=blue>         CENA SPORTS
+      CENA SPORTS
                
  <sup> LOJA CRIADA EM PAULO FROTIN PR </sup> 
  
