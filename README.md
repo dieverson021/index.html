@@ -8,8 +8,7 @@
       </head>
 
    <body>     
-               
-      CENA SPORTS
+     CENA SPORTS
                
  <sup> LOJA CRIADA EM PAULO FROTIN PR </sup> 
  
